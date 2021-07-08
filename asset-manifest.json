@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84c22055.chunk.css",
+    "main.js": "/static/js/main.bbc2d263.chunk.js",
+    "main.js.map": "/static/js/main.bbc2d263.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3118a583.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3118a583.js.map",
+    "static/js/2.14e60fb3.chunk.js": "/static/js/2.14e60fb3.chunk.js",
+    "static/js/2.14e60fb3.chunk.js.map": "/static/js/2.14e60fb3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.84c22055.chunk.css.map": "/static/css/main.84c22055.chunk.css.map",
+    "static/js/2.14e60fb3.chunk.js.LICENSE.txt": "/static/js/2.14e60fb3.chunk.js.LICENSE.txt",
+    "static/media/CV-GuilhermeFialho.7bf10e7a.pdf": "/static/media/CV-GuilhermeFialho.7bf10e7a.pdf",
+    "static/media/ColegioPensi.22775051.jpg": "/static/media/ColegioPensi.22775051.jpg",
+    "static/media/PythonBook.91ced428.jpg": "/static/media/PythonBook.91ced428.jpg",
+    "static/media/SerraJunior.dce75744.png": "/static/media/SerraJunior.dce75744.png",
+    "static/media/backgroundContact.4c61303a.jpg": "/static/media/backgroundContact.4c61303a.jpg",
+    "static/media/backgroundHome.7d6d3fcb.jpg": "/static/media/backgroundHome.7d6d3fcb.jpg",
+    "static/media/backgroundServicesDesk.1ff72737.jpg": "/static/media/backgroundServicesDesk.1ff72737.jpg",
+    "static/media/backgroundServicesMob.960c528d.png": "/static/media/backgroundServicesMob.960c528d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3118a583.js",
+    "static/js/2.14e60fb3.chunk.js",
+    "static/css/main.84c22055.chunk.css",
+    "static/js/main.bbc2d263.chunk.js"
+  ]
+}
